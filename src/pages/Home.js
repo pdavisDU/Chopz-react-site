@@ -1,10 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import BannerImage from "../assets/barber.jpg";
 import "../styles/Home.css";
 
 function Home() {
   return (
-    <div className="home">
+    <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
         <h1>Chopz Men's Salon</h1>
         <p> The best haricut ever</p>
