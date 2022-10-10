@@ -12,6 +12,8 @@ function Footer() {
       <div className="socialMedia">
         <InstagramIcon /> <TwitterIcon /> <FacebookIcon /> <LinkedInIcon />
       </div>
+      <p className="address">611 Grant Street</p>
+      <p className="address">Denver, CO 80203</p>
       <p> Copyright &copy; 2022 http://chopzsalon.com</p>
     </div>
   );

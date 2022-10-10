@@ -19,3 +19,8 @@
   .footer p {
     color: white;
   }
+
+  .address {
+    font-size: 25px;
+    margin-bottom: 5px;
+  }
