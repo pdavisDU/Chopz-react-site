@@ -1,6 +1,7 @@
 import React from "react";
 import { MenuList } from "../helpers/ServiceList";
 import MenuItem from "../components/MenuItem";
+import "../styles/Services.css";
 function Menu() {
   return (
     <div className="menu">
