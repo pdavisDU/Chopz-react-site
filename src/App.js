@@ -7,6 +7,7 @@ import Products from "./pages/Products";
 
 import Home from "./pages/Home";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import About from "./pages/About";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/" exact element={<Home />} />
           <Route path="/services" exact element={<Services />} />
           <Route path="/products" exact element={<Products />} />
+          <Route path="/about" exact element={<About />} />
         </Routes>
         <Footer />
       </Router>
