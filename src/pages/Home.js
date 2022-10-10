@@ -1,5 +1,5 @@
-import React from "react";
 import { Link } from "react-router-dom";
+import React from "react";
 import BannerImage from "../assets/barber.jpg";
 import "../styles/Home.css";
 
