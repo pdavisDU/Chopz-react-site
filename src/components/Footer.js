@@ -1,4 +1,5 @@
 import React from "react";
+// importing icons from material UI website
 import InstagramIcon from "@mui/icons-material/Instagram";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import FacebookIcon from "@mui/icons-material/Facebook";
@@ -7,6 +8,7 @@ import "../styles/Footer.css";
 function Footer() {
   return (
     <div className="footer">
+      {/* creating the DIV with our socials and their icons */}
       <div className="socialMedia">
         <InstagramIcon /> <TwitterIcon /> <FacebookIcon /> <LinkedInIcon />
       </div>
