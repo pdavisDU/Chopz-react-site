@@ -9,7 +9,8 @@
 
   ## Description
   This is a website redesign I did for a local salon
-  Before:
+  
+  Before
   <img width="1440" alt="chopz1" src="https://user-images.githubusercontent.com/98358200/197037053-a0e3de5b-8563-42aa-9ff6-57767bd26b6e.png">
   
 <img width="1439" alt="chopz2" src="https://user-images.githubusercontent.com/98358200/197037147-8a1c25d6-d941-48fe-b1ae-2aa19ac2f3c8.png">
